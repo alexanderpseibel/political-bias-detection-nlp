@@ -5,7 +5,7 @@ bias in news articles can be automatically detected and classified.
 The project was submitted as part of the Natural Language Processing 
 and Text Analytics course (CDSCO1002E) at Copenhagen Business School.
 
-📄 [Read the full report](Report.pdf)
+[Read the full report](Report.pdf)
 
 ---
 
